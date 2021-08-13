@@ -1,6 +1,6 @@
 # R4DS Slack Analysis
 
-[![](https://github.com/tanho63/r4ds_slack_analysis/raw/main/tan_slack_messages.png)]()
+<img src = "https://github.com/tanho63/r4ds_slack_analysis/raw/main/tan_slack_messages.png" max-width = "100%"/>
 
 Alt-text:
 
