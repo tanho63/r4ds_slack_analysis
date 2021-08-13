@@ -1,6 +1,6 @@
 # R4DS Slack Analysis
 
-<img src = "https://github.com/tanho63/r4ds_slack_analysis/raw/main/tan_slack_messages.png" max-width = "100%"/>
+<img src = "https://github.com/tanho63/r4ds_slack_analysis/raw/main/tan_slack_messages.png" style = 'max-width:"100%";'>
 
 Alt-text:
 
